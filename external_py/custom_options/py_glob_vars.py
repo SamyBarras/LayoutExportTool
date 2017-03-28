@@ -31,10 +31,10 @@ local_files = {
     "new footage" : 0 # movie
     }
 # shotgun connexion #
-server_path = "https://turneruk.shotgunstudio.com"
-script_name = "layout_export_task"
-script_key = "f95f2f26e955a5dd3199ece491b4374ee173cbf76f6c0d5363ee300ab92a33f7"
-project_id = 72 # 72 for real Gumball project
+server_path = ""
+script_name = ""
+script_key = ""
+project_id = # int for target shotgun's project
 
 # script variables
 debug = False# False = Off / True = On
